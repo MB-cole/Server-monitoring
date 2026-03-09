@@ -20,7 +20,7 @@ This project simulates a "data center environment" using **Vagrant** and uses **
 ## 📂 Project Structure
 * `Vagrantfile`: Defines the virtualized server environment.
 * `mini_monitor.py`: The core Python logic for health checks and alerting.
-* `Server list.csv`: The inventory of hostnames and IP addresses to monitor.
+* `Server_list.csv`: The inventory of hostnames and IP addresses to monitor.
 * `log.csv`: Historical uptime/downtime data.
 
 ## ⚙️ Configuration & Setup
