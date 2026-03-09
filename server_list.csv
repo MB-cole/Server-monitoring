@@ -1,0 +1,7 @@
+Server Name,Server Network Type,IP
+web-server,private,192.168.56.xx
+data-base,private,192.168.56.xx
+file-server,private,192.168.56.xx
+application-server,private,192.168.56.xx
+proxy-server,private,192.168.56.xx
+mail-server,private,192.168.56.xx
