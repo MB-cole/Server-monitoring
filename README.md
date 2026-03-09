@@ -2,7 +2,7 @@
 A lightweight Python-based monitoring tool designed to check server uptime and network performance while also notifying the user of server downtime across a virtualized environment.
 
 ## 🚀 Overview
-This project simulates a "data center environment" using **Vagrant** and uses **Python** to ensure all nodes are responding within acceptable latency thresholds.
+This project is a proof of concept that simulates a "data center environment" using **Vagrant** and uses **Python** to ensure all nodes are responding within acceptable latency thresholds.
 
 ## 🛠️ Stack
 * **Orchestration:** Vagrant (Ubuntu 22.04 nodes)
